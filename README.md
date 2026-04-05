@@ -25,10 +25,4 @@ I focus on production-grade systems: LLM evaluation, RAG pipelines, and native S
 | [LLM Benchmarker Suite](https://github.com/VDurocher/LLM-Benchmarker-Suite) | Production evaluation toolkit — 6 evaluators, LLM-as-judge, multi-model comparison, CI/CD ready | Python |
 | [RAG Knowledge Assistant](https://github.com/VDurocher/RAG-Knowledge-Assistant) | Turn documents into a cited knowledge base — FAISS, hybrid search, fully local or OpenAI | Python |
 | [Prompt Evolution Engine](https://github.com/VDurocher/prompt-evolution-engine) | Genetic algorithm that automatically evolves prompts — generates variants, scores them, iterates | Python |
-| [Mailmind](https://github.com/VDurocher/mailmind) | AI email triage SaaS — intent classification, entity extraction, draft replies, real-time inbox | Next.js · Supabase |
-
----
-
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=VDurocher&show_icons=true&hide_border=true&hide_title=true&count_private=true)
+| [AI Email Intent Analyzer](https://github.com/VDurocher/AI-Email-Intent-Analyzer) | Production pipeline — classifies support emails, extracts entities, drafts replies in one API call | Python |
